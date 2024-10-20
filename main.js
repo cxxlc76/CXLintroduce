@@ -119,7 +119,7 @@ function aboutMe(){
     if(i==0){
         i=1;
         slogan.style.height="100px";
-        slogan2.innerHTML="帅哥一个.";
+        slogan2.innerHTML="！！！！帅哥一个啊！！！！";
     } else {
         i=0;
         slogan.style.height="50px";
