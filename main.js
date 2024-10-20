@@ -119,7 +119,7 @@ function aboutMe(){
     if(i==0){
         i=1;
         slogan.style.height="100px";
-        slogan2.innerHTML="这里是陈熙霖，来自广西南宁，一个帅气的男孩，喜欢听音乐、看电影.";
+        slogan2.innerHTML="帅哥一个.";
     } else {
         i=0;
         slogan.style.height="50px";
